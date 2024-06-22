@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tourist_voucher>
+    <Voucher>
+        <Type>Отдых</Type>
+        <Country>Испания</Country>
+        <Number_days_nights>7 дней / 6 ночей</Number_days_nights>
+        <Transport>Авиа</Transport>
+        <Hotel_characteristic>
+            <Stars>4 звезды</Stars>
+            <Food>HB</Food>
+            <Room>2-местный</Room>
+            <TV>Да</TV>
+            <Air_conditioner>Да</Air_conditioner>
+        </Hotel_characteristic>
+        <Cost>1500$</Cost>
+    </Voucher>
+    <Voucher>
+        <Type>Экскурсионная</Type>
+        <Country>Франция</Country>
+        <Number_days_nights>5 дней / 4 ночи</Number_days_nights>
+        <Transport>Авто</Transport>
+        <Hotel_characteristic>
+            <Stars>3 звезды</Stars>
+            <Food>BB</Food>
+            <Room>1-местный</Room>
+            <TV>Да</TV>
+            <Air_conditioner>Нет</Air_conditioner>
+        </Hotel_characteristic>
+        <Cost>1200$</Cost>
+    </Voucher>
+</Tourist_voucher>
